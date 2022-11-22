@@ -599,7 +599,11 @@ section{
  -------------------*/
 .footer{
     padding:80px 0 0;
+<<<<<<< Updated upstream
     background-image: url('../img/barberiafooter.webp');
+=======
+    background-image: url('../img/reforma-de-barbeariafooter.jpg');
+>>>>>>> Stashed changes
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
